@@ -35,5 +35,5 @@ print("Done with normal")
 g_pat=r'C:\Users\Aniruddh\Desktop\OPTIC_DISC\GLAUCOMATIC\g_disc';
 s_pat=r'C:\Users\Aniruddh\Desktop\ORIGINAL_FUNDUS_DATASET\GLAUCOMATIC_EYES'
 ext_ocd(load_imgs(s_pat),g_pat)
-print("Done with glaucomatic")
+print("Done with glaucomatic") 
 
